@@ -1,5 +1,5 @@
 # Map, Filter e Reduce em Javascript. 
-Esse repósitorio faz parte das atividades práticas do Basecamp de Javascript, ministrado pela Stephany Nusch (https://github.com/stebsnusch). 
+Esse repósitorio faz parte das atividades práticas do Basecamp de Javascript, ministrado pela Stephany Nusch (https://github.com/stebsnusch), dentro da plataforma DIO. 
 
 ## Atividades: 
 ### Map
