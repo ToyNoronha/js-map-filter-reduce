@@ -1,4 +1,6 @@
 # Map, Filter e Reduce em Javascript. 
+Esse repósitorio faz parte das atividades práticas do Basecamp de Javascript, ministrado pela Stephany Nusch (https://github.com/stebsnusch). 
+
 ## Atividades: 
 ### Map
 - Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro this de um objeto criado por você, e depois sem ele.
